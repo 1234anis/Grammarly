@@ -1,0 +1,36 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #d6104b;
+}
+
+#main{
+    height: 500px;
+    width: 500px;
+    border: 2px solid rgb(15, 13, 13);
+    margin-left:400px;
+    margin-top:150px ;
+    background-color: burlywood;
+}
+label {
+    cursor: pointer;
+    padding-top: 200px;
+    margin-left: 100px;
+  }
+  
+  textarea {
+      margin: 90px;
+
+    width: 400px;
+    height: 180px;
+  }
+  #input-file{
+      height:50px;
+      width:300px;
+      border: 2px solid blue;
+      margin-top: 150px;
+      margin-left: 140px;
+  }
+  
